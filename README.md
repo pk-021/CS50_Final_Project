@@ -1,5 +1,5 @@
 # Fundy Analyzer
-#### Video Demo:  <https://www.youtube.com/shorts/bEwDnRZ5piA>
+#### Video Demo:  < https://youtu.be/TIkHS1dZ4Hs>
 ### Description:
 The aim of Fundy Filter is to make the fundamental analysis of Nepali Stock Companies easier.
 Fundy Filter is a **GUI python program** that scrapes the merolagani website and collects data on the Nepal
