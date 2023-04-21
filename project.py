@@ -68,7 +68,7 @@ def filter(df: pd.DataFrame, criteria: dict):
     filtered["P/E Ratio"] = df["P/E Ratio"]
     filtered["avg_dvnd_rate"] = df["avg_dvnd_rate"]
     filtered["avg_dvnd_prob"] = df["avg_dvnd_prob"]
-    filtered["avg_bonus_rate"] = df["avg_bonus_prob"]
+    filtered["avg_bonus_rate"] = df["avg_bonus_rate"]
     filtered["avg_bonus_prob"] = df["avg_bonus_prob"]
     filtered["1 Year Yield"] = df["num_year_yield"]
 
